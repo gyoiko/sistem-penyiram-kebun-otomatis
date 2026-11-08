@@ -1,0 +1,6 @@
+# Command Code (agent lokal)
+.commandcode/
+
+# OS / editor
+.DS_Store
+Thumbs.db
